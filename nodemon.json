@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "pradeep",
+        "DB_PASSWORD": "testpassword",
+        "DB_NAME": "cafe",
+        "JWT_KEY": "superdupersecret_cafe"
+    }
+}
